@@ -1,0 +1,7 @@
+.idea
+spa_env
+local_srttings.py
+__pycache__/
+*/__pycache__/
+*.py[cod]
+.pyc
